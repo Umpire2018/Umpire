@@ -1,4 +1,4 @@
-Hey there!
+Hey there! I am Arno.
 
 👩‍💻 Junior Python engineer passionate about coding and building applications. 
 
