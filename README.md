@@ -4,3 +4,5 @@ Hey there!
 🔍 Using VSCode as my preferred IDE.
 
 🐧 Comfortable with Linux command line and enjoy exploring different tools and technologies.
+
+📚 Currently learning about GPT Agents.
