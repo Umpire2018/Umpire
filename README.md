@@ -6,4 +6,4 @@ Hey there! I am Arno.
 
 🐧 Comfortable with Linux command line and enjoy exploring different tools and technologies.
 
-📚 Currently learning about GPT Agents.
+📚 Currently learning about AI Agents.
